@@ -86,3 +86,16 @@ nav
   text-align: center;
   font-size: 1rem;
 }
+
+#contact {
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #eee;
+  border: solid 2px black;
+  width: 600px;
+}
+
+#contact input {
+  margin: 10px 0;
+  display: block;
+}
